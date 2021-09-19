@@ -1,0 +1,88 @@
+{
+    "root": {
+        "data": {
+            "id": "cedxn7jrys00",
+            "created": 1632061859140,
+            "text": "工作流"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cedxnu207aw0",
+                    "created": 1632061908132,
+                    "text": "软件",
+                    "layout_mind_offset": {
+                        "x": -141,
+                        "y": -95
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cedxommjeag0",
+                            "created": 1632061970323,
+                            "text": "Lr"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cedxoqdch4w0",
+                            "created": 1632061978475,
+                            "text": "PS"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cedxnybpsqo0",
+                    "created": 1632061917426,
+                    "text": "开始吧",
+                    "layout_mind_offset": {
+                        "x": 368,
+                        "y": 63
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cedxo7r85wo0",
+                            "created": 1632061937955,
+                            "text": "导入照片"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cedxob80q5c0",
+                            "created": 1632061945501,
+                            "text": "筛选照片"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cedxogcp1dk0",
+                            "created": 1632061956667,
+                            "text": "调整"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cedxoj160yo0",
+                            "created": 1632061962501,
+                            "text": "导出"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "structure",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
