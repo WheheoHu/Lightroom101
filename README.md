@@ -27,7 +27,7 @@
 这次的项目名称叫做`Lightroom101`，所以在本地磁盘内建立的文件夹名称就为`202109_Lightroom101`
 2. 将这次项目需要处理的所有照片**复制**到电脑的磁盘中的刚建立好的项目文件夹下
 3. 打开Lr软件，选择`File`->`New Catalog`新建项目目录，位置就选择在刚刚建立的项目文件夹下。文件名我的习惯是采用`ProjectName`，输入`Lightroom101`之后就建立了Lr的Catalog文件
-
+![Lr_Worksapce](Lr_Workspace.png)
 >Lr其实内置了复制工具，有兴趣可以研究一下 [Import photos from a camera or card reader](https://helpx.adobe.com/lightroom-classic/help/importing-photos-lightroom-basic-workflow.html)
 
 >**！不要直接从储存卡导入软件！****！不要直接从储存卡导入软件！****！不要直接从储存卡导入软件！** 储存卡（特别是SD卡）是非常脆弱的储存介质，复制到电脑磁盘上保证工作的稳定。
